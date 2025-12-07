@@ -11,7 +11,7 @@
 
 I'm a **Computer Science & Business Systems** undergraduate at K S School of Engineering and Management, Bangalore, passionate about building scalable systems and solving complex problems. With a unique blend of **technical expertise** and **business acumen**, I strive to create solutions that drive meaningful impact.
 
-```javascript
+
 const rohith = {
     location: "Bangalore, India",
     education: "B.E. in CS & Business Systems",
@@ -19,7 +19,7 @@ const rohith = {
     currentlyLearning: ["AWS Solutions Architecture", "System Design", "Microservices"],
     funFact: "I bridge the gap between technology and business strategy 🎯"
 };
-```
+
 
 ## 💼 Professional Summary
 
