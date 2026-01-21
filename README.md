@@ -80,10 +80,12 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toxicbishop&theme=dark" width="80%" alt="github stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithgaloth&theme=dark" alt="Profile Details" />
   <br />
-  <br />
-  <img src="./github-metrics.svg" width="80%" alt="top languages"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohithgaloth&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithgaloth&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
 <br />
