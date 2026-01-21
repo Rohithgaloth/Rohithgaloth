@@ -60,7 +60,7 @@
 <h3 align="center">🤝 Connect with me:</h3>
 
 <div align="center">
-  <a href="[https://linkedin.com/in/rohithgaloth](https://www.linkedin.com/in/rohithgaloth/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbVY6qomCSBm1pBap0U1e9A%3D%3D)" target="_blank">
+  <a href="[https://linkedin.com/in/rohithgaloth]" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin" />
   </a>
   <img width="12" />
