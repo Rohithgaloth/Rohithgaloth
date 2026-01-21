@@ -68,11 +68,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" />
   </a>
   <img width="12" />
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pranavarun19@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohithgaloth@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" />
   </a>
   <img width="12" />
-  <a href="https://discordapp.com/users/701732138269016064" target="_blank">
+  <a href="https://discordapp.com/users/1405779872789561435" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord" />
   </a>
 </div>
