@@ -85,7 +85,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Rohithgaloth&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithgaloth&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+ 
 </div>
 
 <br />
