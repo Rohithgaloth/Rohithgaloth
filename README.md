@@ -14,16 +14,14 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <p align="center">A passionate backend developer & AI enthusiast dedicated to building robust systems and solving complex problems with modern tech. Welcome to my GitHub profile where I share my creative projects and explorations.</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pranav-arun-4b927b290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://instagram.com/toxicbishop_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" /></a>&nbsp;
-  <a href="mailto:pranavarun19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail" /></a>&nbsp;
-  <a href="https://discordapp.com/users/701732138269016064" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00E5FF" alt="Discord" /></a>&nbsp;
-  <a href="https://gitlab.com/toxicbishop" target="_blank"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00E5FF" alt="GitLab" /></a>
+  <a href="https://linkedin.com/in/rohithgaloth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://instagram.com/r_r_o_h_i_t_h_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" /></a>&nbsp;
+  <a href="mailto:rohithgaloth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail" /></a>&nbsp;
 </p>
 
 <p align="center">
@@ -42,7 +40,7 @@
 - ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
 - ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <h3 align="center">My Projects 🚀</h3>
 
@@ -119,7 +117,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <h3 align="center">Languages and Tools 🛠:</h3>
 
@@ -171,13 +169,13 @@
   <img src="./assets/Logos/jupyter.svg" height="48" alt="jupyter logo" />
 </p>
 <!-- GITLAB_REMOVE_START -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=toxicbishop&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30&hide_border=false&count_private=true&rank_icon=github&ring_color=00E5FF" height="160" alt="stats" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=toxicbishop&background=000000&border=00E5FF30&ring=00E5FF&fire=00bcd4&currStreakLabel=00E5FF&sideLabels=8892a4&dates=3d5166&stroke=00E5FF15&currStreakNum=00E5FF&sideNums=8892a4" height="160" alt="streak stats" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 <h3 align="center">Contribution Graph 👾</h3>
 
