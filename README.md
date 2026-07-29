@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&lines=%5B+Pranav+·+B.E.+CSBS+·+KSSEM+·+4th+Year+%5D;%5B+Backend+Dev+%7C+AI%2FML+%7C+LLM+Apps+%5D+—+open+to+opportunities;%5B+React+·+Node.js+·+Go+·+System+Design+·+Python+%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&lines=%5B+RohithGaloth+·+B.E.+CSBS+·+KSSEM+·+4th+Year+%5D;%5B+Backend+Dev+%7C+AI%2FML+%7C+LLM+Apps+%5D+—+open+to+opportunities;%5B+React+·+Node.js+·+Go+·+System+Design+·+Python+%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,14 +31,15 @@
 <h3>About Me 👨🏻‍💻</h3>
 
 - 🔭 &nbsp; Currently working on **[Voting-System](https://github.com/Mohammed0572/VotingSystem)**
-- 🌱 &nbsp; Currently learning **System Design** & exploring **LLM-powered apps**.
-- 💬 &nbsp; Ask me about **React, Node.js, Python** — happy to help!
-- 🤔 &nbsp; Exploring new technologies and building software solutions and quick hacks.
-- 🎓 &nbsp; Studying **Computer Science and Business Systems**.
-- 💼 &nbsp; **Backend Developer** & **AI/ML Enthusiast**.
-- 🌱 &nbsp; Enthusiast in **Cyber Security**, **Artificial Intelligence**, **RAG apps** and **Machine Learning**.
-- ✍️ &nbsp; Hobbies: Watching Anime and trying out the latest design trends.
-- ☕ &nbsp; _I believe, a perfect cup of coffee can be the ultimate solution for any stress._
+- 🌱 &nbsp; Currently learning **System Design**, **Cloud Computing**, and exploring **Generative AI & LLM applications**.
+- 💬 &nbsp; Ask me about **Java, Python, C++, DSA, React, and AWS** — happy to help!
+- 🤔 &nbsp; Passionate about solving real-world problems through **AI, FinTech, and scalable software solutions**.
+- 🎓 &nbsp; Pursuing **B.E. in Computer Science and Business Systems (CSBS)**.
+- 💼 &nbsp; **Full-Stack Developer**, **Cloud Enthusiast**, and **AI/ML Learner**.
+- ☁️ &nbsp; AWS Certified learner with interests in **Cloud Computing, Artificial Intelligence, Machine Learning, and Backend Development**.
+- 🏆 &nbsp; Actively participating in **Hackathons**, building innovative projects, and continuously improving my technical skills.
+- ✍️ &nbsp; Hobbies: Exploring new technologies, contributing to open-source projects, and designing impactful software.
+- ☕ &nbsp; _I believe every great idea starts with curiosity, consistency, and a good cup of coffee._
 
 
 
