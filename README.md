@@ -5,6 +5,7 @@
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div align="center">
 
@@ -27,6 +28,7 @@
 <p align="center">
   <a href="https://portfolio-ten-sigma-27.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=00E5FF" alt="Portfolio" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3>About Me 👨🏻‍💻</h3>
 
@@ -42,6 +44,7 @@
 - ☕ &nbsp; _I believe every great idea starts with curiosity, consistency, and a good cup of coffee._
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3 align="center">My Projects 🚀</h3>
 
@@ -119,6 +122,7 @@
 </table>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3 align="center">Languages and Tools 🛠:</h3>
 
@@ -167,16 +171,16 @@
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,aws,jenkins,linux" />
   </a><br/>
   <br/>
-  <img src="./assets/Logos/jupyter.svg" height="48" alt="jupyter logo" />
-</p>
+ </p>
 <!-- GITLAB_REMOVE_START -->
 
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=toxicbishop&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30&hide_border=false&count_private=true&rank_icon=github&ring_color=00E5FF" height="160" alt="stats" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=toxicbishop&background=000000&border=00E5FF30&ring=00E5FF&fire=00bcd4&currStreakLabel=00E5FF&sideLabels=8892a4&dates=3d5166&stroke=00E5FF15&currStreakNum=00E5FF&sideNums=8892a4" height="160" alt="streak stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohithgaloth&show_icons=true&bg_color=000000&title_color=00E5FF&text_color=8892a4&icon_color=00E5FF&border_color=00E5FF30&hide_border=false&count_private=true&rank_icon=github&ring_color=00E5FF" height="160" alt="stats" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com? />
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h3 align="center">Contribution Graph 👾</h3>
 
