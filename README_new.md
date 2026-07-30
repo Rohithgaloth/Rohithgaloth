@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-  <img src="./assets/cozy-stylish.gif" alt="cozy-stylish gif banner" width="100%" />
+  <img src="./assets/gifs/fallout-watermark-optimize.gif" alt="Rohith Galoth — GitHub profile banner" width="100%" />
 </div>
 
 <br/>
@@ -51,28 +51,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>nano GPT 🤖</h4>
-      <p>A CPU-friendly character-level GPT from scratch in PyTorch featuring modern architecture (RoPE, RMSNorm, GQA) and a modular RAG pipeline with Chroma DB.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Chroma_DB-000000?style=flat-square&logo=database&logoColor=00E5FF" />
-      </p>
-      <a href="https://github.com/rohithgaloth/nanoGPT"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>DSA Study Hub 📚</h4>
+      <h4>DSA-HUB 📚</h4>
       <p>An interactive educational web app to help students master Data Structures and Applications. Features modern UI with C source code viewer and browser-based algorithm simulations.</p>
       <p>
         <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00E5FF" />
       </p>
-      <a href="https://github.com/rohithgaloth/DSA-Study-Hub"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
+      <a href="https://github.com/Rohithgaloth/DSA-HUB"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>&nbsp;
       <a href="https://dsa-study-hub.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>CryptVault 🔐</h4>
       <p>A hybrid C++ + x64 Assembly encryption tool with a blockchain-backed tamper-proof audit trail and P2P multi-user network. Built from scratch with zero external dependencies.</p>
@@ -82,31 +70,11 @@
         <img src="https://img.shields.io/badge/Blockchain-000000?style=flat-square&logo=bitcoin&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=00E5FF" />
       </p>
-      <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/Rohithgaloth">Rohith</a></sub></p>
+      <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/toxicbishop">Pranav</a></sub></p>
       <a href="https://github.com/rohithgaloth/Crypt-Vault"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Student Management System 🎓</h4>
-      <p>A comprehensive Student Management System implemented in both Python and Java. Demonstrates the evolution of a GUI application from basic CRUD to advanced analytics in two different programming ecosystems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00E5FF" />
-      </p>
-      <a href="https://github.com/rohithgaloth/Student-Marks-Management"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>VITAL Health App 💚</h4>
-      <p>A streamlined health tracker built with Flutter and backed by Google Apps Script + Google Sheets. Ultra-lightweight and focused on simplicity.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00E5FF" />
-        <img src="https://img.shields.io/badge/Google_Sheets-000000?style=flat-square&logo=googlesheets&logoColor=00E5FF" />
-      </p>
-      <a href="https://github.com/rohithgaloth/VITAL-Health-App-Flutter"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-    </td>
     <td width="50%" valign="top">
       <h4> Multimodal Blockchain based Voting System 🗳️</h4>
       <p>A tamper-proof election platform integrating biometric facial recognition with decentralized Ethereum ledgers.</p>
@@ -116,7 +84,19 @@
         <img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=00E5FF" />
       </p>
+      <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/toxicbishop">Pranav</a></sub></p>
       <a href="https://github.com/Mohammed0572/VotingSystem"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Cost of Living in Bengaluru 🏙️</h4>
+      <p>A data-driven React and Express web app for exploring Bengaluru's living costs. Features interactive neighborhood filters, lifestyle calculators, and real-estate insights for students and residents.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00E5FF" />
+      </p>
+      <p><sub>Contributors: <a href="https://github.com/supr1795">Supreeth</a> · <a href="https://github.com/Mohammed0572">Syed</a> · <a href="https://github.com/toxicbishop">Pranav</a></sub></p>
+      <a href="https://github.com/Mohammed0572/bengaluru-cost-explorer"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
 </table>
