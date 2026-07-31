@@ -109,6 +109,14 @@
       <a href="https://github.com/Rohithgaloth/super-duper-barnacle"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
     <td width="50%" valign="top">
+      <h4>EventHub 📅</h4>
+      <p>A comprehensive, full-stack event management platform to streamline the creation, discovery, and registration of events. Built with modern web technologies for a seamless user experience.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00E5FF" />
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/Rohithgaloth/EventHub"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
 </table>
