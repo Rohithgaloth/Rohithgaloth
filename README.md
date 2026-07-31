@@ -99,6 +99,18 @@
       <a href="https://github.com/Mohammed0572/bengaluru-cost-explorer"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Super Duper Barnacle 🚀</h4>
+      <p>A Python tool to automatically generate commits and fill your GitHub contribution graph with green squares. Perfect for showcasing consistent activity or filling in past activity gaps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00E5FF" />
+      </p>
+      <a href="https://github.com/Rohithgaloth/super-duper-barnacle"><img src="https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 
