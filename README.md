@@ -1,5 +1,4 @@
 <!-- markdownlint-disable MD033 -->
-
 <div align="center">
   <img src="./assets/cozy-stylish.gif" alt="cozy-stylish gif banner" width="100%" />
 </div>
